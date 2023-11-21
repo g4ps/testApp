@@ -134,7 +134,7 @@ const tabBarStyles = StyleSheet.create({
   },
   contentContainerStyle: {
     width: 'auto',
-    paddingLeft: 27,
+    paddingLeft: 22,
     paddingRight: 30
   },
   tabStyle: {
